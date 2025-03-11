@@ -5,7 +5,7 @@
 ---
 
 <p align="center" style="font-size: 14px; color: #00FF00;">
-    Scanning for curious minds... <br> 🟩 Found you! 😉
+    You are visitor #
 </p>
 
 <p align="center">

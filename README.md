@@ -2,6 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+New&size=40&duration=3000&color=00FF00&center=true&vCenter=true&width=700&height=70&lines=Hello,+World!+🌍;My+name+is+Omnia!+👋;Welcome+to+my+profile!+🚀"/>
 </h1>
 
+---
+
 <p align="center" style="font-size: 14px; color: #00FF00;">
     You are visitor #
 </p>
@@ -10,22 +12,34 @@
     <img src="https://profile-counter.glitch.me/OmniaOsama03/count.svg" />
 </p>
 
-
 <p align="center">
     <img src="https://img.shields.io/badge/AI%20Enthusiast-💻-blue" />
     <img src="https://img.shields.io/badge/Full--Stack%20Engineer-🌐-blue" />
     <img src="https://img.shields.io/badge/Unity%20Developer-🎮-blue" />
 </p>
 
+---
 
+<table>
+<tr>
+<td>
 
 ## 👨🏻‍💻 About Me
 Hey there! I'm **Omnia Osama**, a senior undergraduate studying **Software Engineering** at **Abu Dhabi University**.  
 
-🔍 With a strong foundation in **software design**, **data structures**, and **algorithms**, I specialize in developing efficient and scalable solutions.  
-💻 Experienced in building **web applications**, **AI models**, and **interactive experiences** using tools like **Python**, **C#**, and **Azure Services**.  
-🛠️ Skilled in both **front-end** and **back-end development**, I enjoy turning complex ideas into functional and user-friendly systems.  
-🚀 Always eager to apply engineering principles to solve real-world challenges.
+🔍 Strong foundation in **software design**, **data structures**, and **algorithms**, and **Object Oriented Design Patterns**  
+⚡ Experience in building **web applications**, **AI models**, and **interactive experiences**  
+🛠️ Skilled in both **front-end** and **back-end development**  
+💻 Constantly curious and always eager to expand my knowledge  
+
+</td>
+<td>
+
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721231.png" width="300"/>
+
+</td>
+</tr>
+</table>
 
 
 ## 🛠️ Tech Stack

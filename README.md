@@ -19,7 +19,7 @@
 
 
 
-## 🚀 About Me
+<p align="center"> ## 👨🏻‍💻  About Me </p>
 - 🎯 **AI Enthusiast**, passionate about creating meaningful solutions.
 - 🌐 Skilled in **Azure**, **Unity**, and **AI/ML Frameworks**.
 - 📫 Reach me at [OmniaOsama432@gmail.com] | [LinkedIn]([#](https://www.linkedin.com/in/omniaosamaahmed/)) 

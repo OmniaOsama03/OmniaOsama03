@@ -3,8 +3,8 @@
 </h1>
 
 
-<p align="center" style="font-size: 14px; color: #00FF00;">
-    You are visitor #
+<p align="center" style="font-size: 6px; color: #00FF00;">
+    Visitor count:
 </p>
 
 <p align="center">

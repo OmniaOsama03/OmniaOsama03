@@ -1,20 +1,39 @@
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&duration=3000&color=00FF00&center=true&vCenter=true&width=700&height=70&lines=Hello,+World!+🌍;My+name+is+Omnia!+👋;Welcome+to+my+profile!+🚀"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&duration=3000&color=00FF00&center=true&vCenter=true&width=700&height=70&lines=Hello,+World!+🌍"/>
 </h1>
 
+---
+
 <p align="center" style="font-size: 14px; color: #00FF00;">
-    You are visitor #
+    Access Granted... Initializing Profile...
 </p>
 
-<p align="center">
+---
+
+<div align="center" style="
+    background-color: #000;
+    border: 2px solid #00FF00;
+    border-radius: 10px;
+    box-shadow: 0 0 15px #00FF00;
+    padding: 15px;
+    display: inline-block;
+    width: 50%;
+">
+    <p style="color: #00FF00; font-size: 14px;">You are visitor #</p>
     <img src="https://profile-counter.glitch.me/OmniaOsama03/count.svg" />
-</p>
+</div>
 
+---
 
 <p align="center">
-    <img src="https://img.shields.io/badge/AI%20Enthusiast-💻-blue" />
-    <img src="https://img.shields.io/badge/AR%20Game%20Developer-🎮-purple" />
-    <img src="https://img.shields.io/badge/Data%20Scientist-📊-green" />
+    🚀 💻 🧠 🎯 
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/AI%20Enthusiast-%2300FF00?style=flat-square" />
+    <img src="https://img.shields.io/badge/AR%20Game%20Developer-%2300AEEF?style=flat-square" />
+    <img src="https://img.shields.io/badge/Data%20Scientist-%238A2BE2?style=flat-square" />
 </p>
 
 ---

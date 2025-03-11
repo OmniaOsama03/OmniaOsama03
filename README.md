@@ -46,7 +46,7 @@ Hey there! I'm **Omnia Osama Ahmed**, a senior undergraduate studying **Software
 <tr>
 <td valign="top" width="50%">
 
-### 🎨 Front-End Development
+###  Front-End Development
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
@@ -54,14 +54,14 @@ Hey there! I'm **Omnia Osama Ahmed**, a senior undergraduate studying **Software
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
 </p>
 
-### ⚙️ Back-End Development
+###  Back-End Development
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
     <img src="https://img.icons8.com/ios/50/000000/express-js.png" width="40" />
 </p>
 
-### 🗄️ Database Management
+###  Database Management
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
@@ -69,13 +69,11 @@ Hey there! I'm **Omnia Osama Ahmed**, a senior undergraduate studying **Software
     <img src="https://img.icons8.com/ios-filled/50/F80000/oracle-logo.png" width="40" />
 </p>
 
-
-
 </td>
 
 <td valign="top" width="50%">
 
-### 🔥 Programming Languages
+###  Programming Languages
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
@@ -83,7 +81,7 @@ Hey there! I'm **Omnia Osama Ahmed**, a senior undergraduate studying **Software
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
 </p>
 
-### 🖥️ Tools & IDEs
+###  Tools & IDEs
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
@@ -100,8 +98,9 @@ Hey there! I'm **Omnia Osama Ahmed**, a senior undergraduate studying **Software
 </td>
 </tr>
 </table>
-
+    
 ### 🚧 Currently Learning/Improving
+<div align="center">
 <p>
     <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /></a>
     <a href="https://spring.io/projects/spring-boot"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" /></a>
@@ -111,17 +110,50 @@ Hey there! I'm **Omnia Osama Ahmed**, a senior undergraduate studying **Software
     <a href="https://azure.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" /></a>
     
 </p>
+</div>
 
+---
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmniaOsama03&show_icons=true&theme=dark&border_color=5872c1" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmniaOsama03&theme=dark&border=5872c1" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmniaOsama03&layout=compact&theme=dark&border_color=5872c1&title_color=5872c1" width="37%"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=OmniaOsama03&show_icons=true&theme=dark&border_color=5872c1&title_color=5872c1" width="49%"/>
+</p>
+
+<p align="center" style="font-size: 8px;">
+    Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+
+---
+## 📂Explore My Work
+
+<p align="center">
+  <a href="https://github.com/OmniaOsama03/Volunteer_Management_System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmniaOsama03&repo=Volunteer_Management_System&theme=dark&border_color=5872c1" width="45%"/>
+  </a>
+  
+  <a href="https://github.com/OmniaOsama03/Comperative_Analysis_of_Clustering_Algorithms">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmniaOsama03&repo=Comperative_Analysis_of_Clustering_Algorithms&theme=dark&border_color=5872c1" width="45%"/>
+  </a>
+  
+  <a href="https://github.com/OmniaOsama03/RESTful-API-Web-Service">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmniaOsama03&repo=RESTful-API-Web-Service&theme=dark&border_color=5872c1" width="45%"/>
+  </a>
+
+  <a href="https://github.com/OmniaOsama03/Distributed-Mining-System-with-Load-Balancing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmniaOsama03&repo=Distributed-Mining-System-with-Load-Balancing&theme=dark&border_color=5872c1" width="45%"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/OmniaOsama03?tab=repositories">
+    <img src="https://img.shields.io/badge/🔍%20View%20All%20Repos-5872c1?style=for-the-badge"/>
+  </a>
 </p>
 
 
 ## 📫 Let's Connect!
 <p align="center">
-    <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/omniaosamaahmed/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/omniaosamaahmed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:omniaosama432@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>

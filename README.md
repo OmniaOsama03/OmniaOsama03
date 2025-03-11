@@ -20,19 +20,12 @@
 
 
 ## 👨🏻‍💻 About Me
+Hey there! I'm **Omnia Osama**, a senior undergraduate studying **Software Engineering** at **Abu Dhabi University**.  
 
-<div style="
-    font-family: 'Courier New', Courier, monospace;
-    color: #00FF00;
-    background-color: #000000;
-    padding: 15px;
-    border: 2px solid #00FF00;
-    border-radius: 10px;
-    box-shadow: 0 0 15px #00FF00;">
-💻 **AI Enthusiast** | 🌐 **Full-Stack Engineer** | 🎮 **Unity Developer**  
-📈 Experienced in developing AI models, web applications, and interactive projects.  
-⚙️ Constantly learning and exploring new technologies.  
-</div>
+🔍 With a strong foundation in **software design**, **data structures**, and **algorithms**, I specialize in developing efficient and scalable solutions.  
+💻 Experienced in building **web applications**, **AI models**, and **interactive experiences** using tools like **Python**, **C#**, and **Azure Services**.  
+🛠️ Skilled in both **front-end** and **back-end development**, I enjoy turning complex ideas into functional and user-friendly systems.  
+🚀 Always eager to apply engineering principles to solve real-world challenges.
 
 
 ## 🛠️ Tech Stack

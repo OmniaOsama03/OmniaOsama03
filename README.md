@@ -2,8 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&duration=3000&color=00FF00&center=true&vCenter=true&width=700&height=70&lines=Hello,+World!+🌍;My+name+is+Omnia!+👋;Welcome+to+my+profile!+🚀"/>
 </h1>
 
----
-
 <p align="center" style="font-size: 14px; color: #00FF00;">
     You are visitor #
 </p>
@@ -11,8 +9,6 @@
 <p align="center">
     <img src="https://profile-counter.glitch.me/OmniaOsama03/count.svg" />
 </p>
-
----
 
 
 <p align="center">

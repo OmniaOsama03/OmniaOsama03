@@ -13,9 +13,10 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/AI%20Enthusiast-💻-blue" />
-    <img src="https://img.shields.io/badge/AR%20Game%20Developer-🎮-purple" />
-    <img src="https://img.shields.io/badge/Data%20Scientist-📊-green" />
+    <img src="https://img.shields.io/badge/Full--Stack%20Engineer-🌐-orange" />
+    <img src="https://img.shields.io/badge/Unity%20Developer-🎮-purple" />
 </p>
+
 
 
 ## 🚀 About Me

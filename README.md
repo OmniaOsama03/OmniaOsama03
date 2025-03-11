@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&duration=3000&color=00FF00&center=true&vCenter=true&width=700&height=70&lines=Hello,+World!+🌍;My+name+is+Omnia!+👋;Welcome+to+my+profile!+🚀"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+New&size=40&duration=3000&color=00FF00&center=true&vCenter=true&width=700&height=70&lines=Hello,+World!+🌍;My+name+is+Omnia!+👋;Welcome+to+my+profile!+🚀"/>
 </h1>
 
 <p align="center" style="font-size: 14px; color: #00FF00;">
@@ -19,12 +19,21 @@
 
 
 
-<p align="center"> ## 👨🏻‍💻  About Me </p>
-- 🎯 **AI Enthusiast**, passionate about creating meaningful solutions.
-- 🌐 Skilled in **Azure**, **Unity**, and **AI/ML Frameworks**.
-- 📫 Reach me at [OmniaOsama432@gmail.com] | [LinkedIn]([#](https://www.linkedin.com/in/omniaosamaahmed/)) 
+## 👨🏻‍💻 About Me
 
----
+<div style="
+    font-family: 'Courier New', Courier, monospace;
+    color: #00FF00;
+    background-color: #000000;
+    padding: 15px;
+    border: 2px solid #00FF00;
+    border-radius: 10px;
+    box-shadow: 0 0 15px #00FF00;">
+💻 **AI Enthusiast** | 🌐 **Full-Stack Engineer** | 🎮 **Unity Developer**  
+📈 Experienced in developing AI models, web applications, and interactive projects.  
+⚙️ Constantly learning and exploring new technologies.  
+</div>
+
 
 ## 🛠️ Tech Stack
 **Languages:** Python, C#, JavaScript  

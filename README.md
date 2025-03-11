@@ -20,9 +20,27 @@
 
 ---
 
+## 👨🏻‍💻 About Me
 <table>
 <tr>
 <td>
+
+Hey there! I'm **Omnia Osama**, a senior undergraduate studying **Software Engineering** at **Abu Dhabi University**.  
+
+🧠 Strong foundation in **software design**, **data structures**, **algorithms**, and **Object Oriented Design Patterns**  
+⚙️ Experience in building **web applications**, **AI models**, and **interactive experiences**  
+🔧 Skilled in both **front-end** and **back-end development**  
+📚 Constantly curious and always eager to expand my knowledge  
+
+</td>
+<td>
+
+<img src="https://cdn-icons-png.flaticon.com/512/9432/9432227.png" width="200"/>
+
+</td>
+</tr>
+</table>
+
 
 ## 👨🏻‍💻 About Me
 Hey there! I'm **Omnia Osama**, a senior undergraduate studying **Software Engineering** at **Abu Dhabi University**.  

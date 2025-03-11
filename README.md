@@ -13,7 +13,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/AI%20Enthusiast-💻-blue" />
-    <img src="https://img.shields.io/badge/Full--Stack%20Engineer-🌐-orange" />
+    <img src="https://img.shields.io/badge/Full--Stack%20Engineer-🌐-green" />
     <img src="https://img.shields.io/badge/Unity%20Developer-🎮-purple" />
 </p>
 

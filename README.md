@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+    <img src="https://profile-counter.glitch.me/OmniaOsama03/count.svg" />
+</p>
+
+<p align="center">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/OmniaOsama03&count_bg=%2300FF00&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false"/>
 </p>
 

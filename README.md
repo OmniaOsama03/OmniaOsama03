@@ -143,6 +143,10 @@ Hey there! I'm **Omnia Osama Ahmed**, a senior undergraduate studying **Software
   <a href="https://github.com/OmniaOsama03/Distributed-Mining-System-with-Load-Balancing">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmniaOsama03&repo=Distributed-Mining-System-with-Load-Balancing&theme=dark&border_color=5872c1" width="45%"/>
   </a>
+
+   <a href="https://github.com/OmniaOsama03/GOF-Design-Patterns">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmniaOsama03&repo=GOF-Design-Patterns&theme=dark&border_color=5872c1" width="45%"/>
+  </a>
 </p>
 
 <p align="center">

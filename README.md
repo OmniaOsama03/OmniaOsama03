@@ -25,7 +25,7 @@
 
 Hey there! I'm **Omnia Osama Ahmed**, a senior undergraduate studying **Software Engineering** at **Abu Dhabi University**.  
 
-🧠 Strong foundation in **software design**, **data structures**, **algorithms**, and **Object Oriented Design Patterns**  
+🧠 Strong foundation in **software design & architecture**, **data structures & algorithms**, **Object Oriented Design Patterns**, **software maintenance**.  
 ⚙️ Experience in building **web applications**, **AI models**, and **interactive experiences**  
 🔧 Skilled in both **front-end** and **back-end development**  
 📚 Constantly curious and always eager to expand my knowledge  
@@ -52,6 +52,7 @@ Hey there! I'm **Omnia Osama Ahmed**, a senior undergraduate studying **Software
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="40" />
 </p>
 
 ###  Back-End Development
@@ -95,6 +96,12 @@ Hey there! I'm **Omnia Osama Ahmed**, a senior undergraduate studying **Software
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" />
 </p>
 
+### Testing & API Tools
+<p>
+    <a href="https://junit.org/junit5/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="JUnit" /></a>
+    <a href="https://www.postman.com/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="40" title="Postman" /></a>
+    <a href="https://swagger.io/"> <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="90" title="Swagger" /> </a>
+    <a href="https://www.sonarsource.com/products/sonarqube/"> <img src="https://logo.svgcdn.com/l/sonarqube.svg" width="90" title="SonarQube" /> </a>
 </td>
 </tr>
 </table>

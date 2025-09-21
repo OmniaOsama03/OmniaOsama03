@@ -23,12 +23,12 @@
 <tr>
 <td>
 
-Hey there! I'm **Omnia Osama Ahmed**, a senior undergraduate studying **Software Engineering** at **Abu Dhabi University**.  
-
-🧠 Strong foundation in **software design & architecture**, **data structures & algorithms**, **Object Oriented Design Patterns**, **software maintenance**.  
-⚙️ Experience in building **web applications**, **AI models**, and **interactive experiences**  
-🔧 Skilled in both **front-end** and **back-end development**  
-📚 Constantly curious and always eager to expand my knowledge  
+Hey there! I'm **Omnia Osama Ahmed**, a Masters student studying **Computer Science (AI Concentration)** at **Khalifa University**, with a bachelors degree in Software Engineering from Abu Dhabi University. 
+I have:
+🧠 A strong foundation in **software design & architecture**, **data structures & algorithms**, **Object Oriented Design Patterns**, **software maintenance**.  
+⚙️ Experience in building **web applications**, **Android mobile applications**, **AI models**, **interactive experiences**, **Unity games**.  
+🔧 Skills in both **front-end** and **back-end development**.
+📚 A constant curiousity and eagerness to expand my knowledge  
 
 </td>
 <td>

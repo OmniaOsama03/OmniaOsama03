@@ -3,14 +3,6 @@
 </h1>
 
 
-<p align="center" style="font-size: 6px; color: #00FF00;">
-    Visitor count:
-</p>
-
-<p align="center">
-    <img src="https://profile-counter.glitch.me/OmniaOsama03/count.svg" />
-</p>
-
 <p align="center">
     <img src="https://img.shields.io/badge/-AI%20Enthusiast-5872c1?style=for-the-badge&logo=openai&logoColor=white" />
     <img src="https://img.shields.io/badge/-Full--Stack%20Engineer-5872c1?style=for-the-badge&logo=html5&logoColor=white" />
@@ -24,10 +16,10 @@
 <td>
 
 Hey there! I'm **Omnia Osama Ahmed**, a Masters student studying **Computer Science (AI Concentration)** at **Khalifa University**, with a bachelors degree in Software Engineering from Abu Dhabi University. 
-I have:
+I have:  
 🧠 A strong foundation in **software design & architecture**, **data structures & algorithms**, **Object Oriented Design Patterns**, **software maintenance**.  
 ⚙️ Experience in building **web applications**, **Android mobile applications**, **AI models**, **interactive experiences**, **Unity games**.  
-🔧 Skills in both **front-end** and **back-end development**.
+🔧 Skills in both **front-end** and **back-end development**.  
 📚 A constant curiousity and eagerness to expand my knowledge  
 
 </td>
